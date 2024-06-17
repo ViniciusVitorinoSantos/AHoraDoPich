@@ -1,0 +1,7 @@
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\bin\Debug\AHoraDoPich.exe.config
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\bin\Debug\AHoraDoPich.exe
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\bin\Debug\AHoraDoPich.pdb
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\obj\Debug\AHoraDoPich.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\obj\Debug\AHoraDoPich.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\obj\Debug\AHoraDoPich.exe
+C:\Users\vinic\source\repos\AHoraDoPich\AHoraDoPich\obj\Debug\AHoraDoPich.pdb
